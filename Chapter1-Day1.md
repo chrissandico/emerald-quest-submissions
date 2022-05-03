@@ -10,4 +10,7 @@ What is a Smart Contract?
 A smart contract is an application that defines the rules to transact (read/write data) with the blockchain.  
 These "rules" need to be followed in order to make changes to the data stored on the blockchain.
 Smart contracts are essentially the first line of defence when securing data stored on the blockchain and thus need to be written as such.
-Depending on the blockchain, smart contracts are written using 
+Depending on the blockchain, smart contracts are written using different coding languages.  Flow blockchain uses Cadence smart contract langauge.
+
+What is the difference between a transaction and script?
+They both interact with the blockchain, but a transaction writes/updates the data while a script simply reads the data (no changes to the data).
